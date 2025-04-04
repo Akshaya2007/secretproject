@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Upcoming Matches | Esports Nepal</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Esports Nepal</h1>
+    <p>Upcoming Matches</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="live.html">Live</a></li>
+      <li><a href="upcoming.html">Upcoming</a></li>
+      <li><a href="past.html">Past</a></li>
+      <li><a href="index.html#contact-us">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section>
+    <h2>Upcoming Matches</h2>
+    <div id="upcoming-matches" class="match-container"></div>
+  </section>
+
+  <footer>
+    <p>© 2025 Esports Nepal</p>
+  </footer>
+
+  <script src="script-upcoming.js"></script>
+</body>
+</html>
